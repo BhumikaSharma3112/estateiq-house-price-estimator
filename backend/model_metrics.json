@@ -1,0 +1,6 @@
+{
+  "rows": 420,
+  "mae_inr": 1561120.76,
+  "r2": 0.9321,
+  "dataset_note": "Check dataset provenance before deployment"
+}
